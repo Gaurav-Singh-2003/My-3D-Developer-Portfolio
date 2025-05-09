@@ -1,2 +1,2 @@
 # My-3D-Developer-Portfolio
-"Welcome to my 3D Developer Portfolio, a dynamic WebApp designed to bring my projects to life. 
+Welcome to my 3D Developer Portfolio, a dynamic WebApp designed to bring my projects to life. Navigate through  interactive 3D scenes and detailed model viewers to explore my work in, game development, architectural visualization, and product modeling. This application leverages to deliver a seamless and engaging user experience, highlighting my capabilities in 3D animation, PBR texturing, and front-end integration].
